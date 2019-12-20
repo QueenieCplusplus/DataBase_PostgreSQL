@@ -16,22 +16,7 @@
                          
                         Server Framework
                         
-  
-  # (1) 詞語分析
-  
-    plz wait...
-  
-  # (2) 邏輯最佳化
-  
-    plz wait...
-  
-  # (3) 查詢實體
-  
-    plz wait...
-  
-  # (4) 查詢計畫
-  
-    plz wait...
+TBD...
   
   
                         
